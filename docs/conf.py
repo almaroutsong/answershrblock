@@ -4,7 +4,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'H&R Block Answers'
+project = 'Answers H&R Block'
 copyright = '2025'
 author = 'Lisa Scottoline'
 
@@ -21,3 +21,4 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+
